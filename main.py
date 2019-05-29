@@ -10,6 +10,11 @@ print('**************adding now*******************')
 print('**************adding from master branch')
 print('**************adding from pythonD branch*************')
 print('**************happy*************')
+print('**************when you feel unhappy*************')
+print('**************look at the sky*************')
+print('**************the sun is shining*************')
+print('**************the birds are singing*************')
+print('**************and you,should be smiling*************')
 
 
 
